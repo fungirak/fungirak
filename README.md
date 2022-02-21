@@ -1,15 +1,12 @@
-<h1 align="center">Bienvenido a Fungilandia🍄 Gabriel Lazzarini</h1>
 <h3 align="center">Full Stack Developer JR.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fungirak&label=Profile%20views&color=0e75b6&style=flat" alt="fungirak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fungirak" alt="fungirak" /></a> </p>
 
-- 🔭 I’m currently working on [Proyecto Final Argentina Programa](https://www.fungirak.com/proyecto-final-argentina-programa-frontend/)
+- 🔭 Actualmente Desarrollando [Proyecto Final Argentina Programa](https://www.fungirak.com/proyecto-final-argentina-programa-frontend/)
 
-- 👨‍💻 All of my projects are available at [www.fungirak.com](www.fungirak.com)
+- 👨‍💻 Todos mis proyectos en vivo puedes verlos en [www.fungirak.com](www.fungirak.com)
 
-- 📫 How to reach me **fungirak@gmail.com**
+- 📫 Conéctese conmigo en **fungirak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,8 +20,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://mpago.la/242gBtS"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://mpago.la/242gBtS" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fungirak&show_icons=true&locale=en&layout=compact" alt="fungirak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fungirak&show_icons=true&locale=en" alt="fungirak" /></p>
 
