@@ -13,11 +13,12 @@
 
 
 <h3 align="center">▶ Es probable que me encuentre editando alguno de mis proyectos</h3>
+<h3 align="center">▶ ¡Visita mi website! <a href="https://www.fungirak.com" target="blank"><img align="center" alt="gabriel lazzarini"/></a> </h3>
 
 
-<h3 align="left">Mi perfil de Linkedin:</h3>
+<h3 align="left">Linkedin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel lazzarini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel lazzarini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel-lazzarini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel lazzarini" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
