@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola mundo, ¡Welcome to Fungilandia!</h1>
+<h1 align="center">Hola mundo, ¡Welcome to Fungilandia! 🍄 </h1>
 <h3 align="center">Soy un estudiante de Ingeniería en Informática de la ciudad de Santa Fe 🇦🇷, me encanta aprender sobre sistemas de software. Me dedico al desarrollo de software frontend y backend.</h3>
 
 <h3 align="center">Algunos de mis últimos proyectos son:</h3>
@@ -16,12 +16,12 @@
 <h3 align="center">▶ ¡Visita mi website!  <a href="https://www.fungirak.com" target="blank">www.fungirak.com</a></h3>
 
 
-<h3 align="left">Linkedin:</h3>
+<h3 align="left">Perfil de Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-lazzarini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel lazzarini" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes  y Tecnologías que utilizo:</h3>
 <p align="left">
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
