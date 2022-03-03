@@ -1,14 +1,16 @@
 
-<h1 align="center">Hola mundo, bienvenido a Fungiland Code Mi nombre es FUNGIRAK</h1>
+<h1 align="center">Hola mundo, ¡bienvenido a Fungiland!</h1>
 <h3 align="center">Amo el desarrollo de software frontend y backend.</h3>
 
-- 👨‍💻 [Enviar SMS](https://www.fungirak.com/sms-app-react/)
+<h3 align="center">Algunos de mis últimos proyectos son.</h3>
 
-- 👨‍💻 [Lista de Compras](https://www.fungirak.com/Lista-De-Compras-conREACT/)
+- 👨‍💻 App para enviar sms desde la web utilizando stack mern (en proceso de extensión) [Enviar SMS](https://www.fungirak.com/sms-app-react/)
 
-- 👨‍💻 [Lista de Invitados](https://www.fungirak.com/invitados-al-evento/)
+- 👨‍💻 Gestión de compras hecho en React [Lista de Compras](https://www.fungirak.com/Lista-De-Compras-conREACT/)
 
-<h3 align="left">Connect with me:</h3>
+- 👨‍💻 Gestión de Invitados hecho utilizando stack mern [Lista de Invitados](https://www.fungirak.com/invitados-al-evento/)
+
+<h3 align="left">Mi perfil de Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel lazzarini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel lazzarini" height="30" width="40" /></a>
 </p>
