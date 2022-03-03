@@ -13,7 +13,7 @@
 
 
 <h3 align="center">▶ Es probable que me encuentre editando alguno de mis proyectos</h3>
-<h4 align="center">▶ ¡Visita mi website!  <a href="https://www.fungirak.com" target="blank">www.fungirak.com</a></h4>
+<h3 align="center">▶ ¡Visita mi website!  <a href="https://www.fungirak.com" target="blank">www.fungirak.com</a></h3>
 
 
 <h3 align="left">Linkedin:</h3>
