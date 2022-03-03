@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola mundo, ¡Welcome to Fungilandia! 🍄 </h1>
+<h1 align="center">Hola mundo, 🍄 ¡Welcome to Fungilandia! 🍄 </h1>
 <h3 align="center">Soy un estudiante de Ingeniería en Informática de la ciudad de Santa Fe 🇦🇷, me encanta aprender sobre sistemas de software. Me dedico al desarrollo de software frontend y backend.</h3>
 
 <h3 align="center">Algunos de mis últimos proyectos son:</h3>
