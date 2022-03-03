@@ -1,14 +1,17 @@
 
-<h1 align="center">Hola mundo, ¡bienvenido a Fungiland!</h1>
-<h3 align="center">Amo el desarrollo de software frontend y backend.</h3>
+<h1 align="center">Hola mundo, ¡bienvenido a Fungilandia!</h1>
+<h3 align="center">Soy un estudiante de Ingeniería en Informática de la ciudad de Santa Fe 🇦🇷, me encanta aprender sobre sistemas de software. Me dedico al desarrollo de software frontend y backend.</h3>
 
-<h3 align="center">Algunos de mis últimos proyectos son.</h3>
+<h3 align="center">Algunos de mis últimos proyectos son:</h3>
 
-- 👨‍💻 App para enviar sms desde la web utilizando stack mern (en proceso de extensión) [Enviar SMS](https://www.fungirak.com/sms-app-react/)
+- 👨‍💻 App para enviar sms desde la web (utilizando stack mern - en proceso de extensión) [Enviar SMS](https://www.fungirak.com/sms-app-react/)
 
 - 👨‍💻 Gestión de compras hecho en React [Lista de Compras](https://www.fungirak.com/Lista-De-Compras-conREACT/)
 
-- 👨‍💻 Gestión de Invitados hecho utilizando stack mern [Lista de Invitados](https://www.fungirak.com/invitados-al-evento/)
+- 👨‍💻 Gestión de Invitados (utilizando stack mern) [Lista de Invitados](https://www.fungirak.com/invitados-al-evento/)
+
+<h3 align="center">Es probable que me encuentre editando alguno de mis proyectos</h3>
+
 
 <h3 align="left">Mi perfil de Linkedin:</h3>
 <p align="left">
