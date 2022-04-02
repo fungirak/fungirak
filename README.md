@@ -4,12 +4,13 @@
 
 <h3 align="center">Algunos de mis últimos proyectos son:</h3>
 
+- 👨‍💻 Proyecto Final de Argentina Programa (FullStack JAVA + ANGULAR)  [Mi Portafolio](https://proyecto-arg-prog-frontend.web.app) TEST : {"nombreUsuario": "usuario1", "password": "usuario1" }
 
-- 👨‍💻 App para enviar sms desde la web (utilizando stack mern - en proceso de extensión) [Enviar SMS](https://www.fungirak.com/sms-app-react/)
+- 👨‍💻 App para enviar sms desde la web (FullStack MERN - MVC ) [Enviar SMS](https://www.fungirak.com/sms-app-react/)
 
-- 👨‍💻 Gestión de compras hecho en React [Lista de Compras](https://www.fungirak.com/Lista-De-Compras-conREACT/)
+- 👨‍💻 Gestión de Invitados (FullStack MERN) [Lista de Invitados](https://www.fungirak.com/invitados-al-evento/)
 
-- 👨‍💻 Gestión de Invitados (utilizando stack mern) [Lista de Invitados](https://www.fungirak.com/invitados-al-evento/)
+- 👨‍💻 Mi Sitio Web Personal (FullStack MERN) [My Personal Website](https://www.fungirak.com)
 
 
 <h3 align="center">▶ Es probable que me encuentre editando alguno de mis proyectos</h3>
