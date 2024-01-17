@@ -10,7 +10,7 @@
 
  💻📱 •Gestión de Invitados (FullStack: MongoDB + Express + React + Node) [Lista de Invitados](https://www.fungirak.com/invitados-al-evento/)
 
- 💻📱 •Mi Sitio Web Personal (FullStack: MongoDB + Express + React + Node) [My Personal Website](https://www.fungirak.com)
+ 💻📱 •Mi Sitio Web Personal (FullStack: Next + MongoDB) [My Personal Website](https://www.fungirak.com)
 
 
 <h3 align="center">▶ Es probable que me encuentre editando alguno de mis proyectos</h3>
