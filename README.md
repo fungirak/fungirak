@@ -1,16 +1,16 @@
 
 <h1 align="center">Hola mundo, 🍄 ¡Welcome to Fungilandia! 🍄 </h1>
-<h3 align="center">Soy un estudiante universitario en UTN de la ciudad de Santa Fe 🇦🇷, me encanta aprender sobre sistemas de software. Me dedico al desarrollo de software frontend y backend.</h3>
+<h3 align="center">Soy un estudiante universitario en UTN de la ciudad de Santa Fe 🇦🇷, me encanta aprender continuamente sobre sistemas de software. Me dedico al desarrollo de software tanto frontend como backend y bases de datos.</h3>
 
 <h3 align="center">Algunos de mis últimos proyectos son:</h3>
 
-- 👨‍💻 Proyecto Final de Argentina Programa (FullStack JAVA + ANGULAR)  [Mi Portafolio](https://proyecto-arg-prog-frontend.web.app) 
+ 💻📱 •Proyecto Final de Argentina Programa (FullStack: JAVA + ANGULAR, en desarrollo continuo post-finalización)  [Mi Portafolio](https://deploy-next-portafolio-app.vercel.app/) 
 
-- 👨‍💻 App para enviar sms desde la web (FullStack MERN - MVC ) [Enviar SMS](https://www.fungirak.com/sms-app-react/)
+ 💻📱 •App para enviar sms desde la web (FullStack: MongoDB + Express + React + Node) [Enviar SMS](https://www.fungirak.com/sms-app-react/)
 
-- 👨‍💻 Gestión de Invitados (FullStack MERN) [Lista de Invitados](https://www.fungirak.com/invitados-al-evento/)
+ 💻📱 •Gestión de Invitados (FullStack: MongoDB + Express + React + Node) [Lista de Invitados](https://www.fungirak.com/invitados-al-evento/)
 
-- 👨‍💻 Mi Sitio Web Personal (FullStack MERN) [My Personal Website](https://www.fungirak.com)
+ 💻📱 •Mi Sitio Web Personal (FullStack: MongoDB + Express + React + Node) [My Personal Website](https://www.fungirak.com)
 
 
 <h3 align="center">▶ Es probable que me encuentre editando alguno de mis proyectos</h3>
@@ -31,6 +31,7 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/hc/353261/png/353261.png" alt="php" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
