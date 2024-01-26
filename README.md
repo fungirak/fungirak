@@ -4,7 +4,7 @@
 
 <h3 align="center">Algunos de mis últimos proyectos son:</h3>
 
- 💻📱 • Historias (FullStack: JAVA + ANGULAR, continuación enriquecida de mi proyecto final de Argentina Programa)  [Mi Historia](https://deploy-next-portafolio-app.vercel.app/) 
+ 💻📱 • Historias (FullStack: JAVA + ANGULAR, continuación enriquecida de mi proyecto final de Argentina Programa)  [Mi Historia](https://deploy-next-front-historias.vercel.app/) 
 
  💻📱 • App para enviar SMS desde la web (FullStack: MongoDB + Express + React + Node) [Enviar SMS](https://www.fungirak.com/sms-app-react/)
 
