@@ -4,16 +4,16 @@
 
 <h3 align="center">Algunos de mis últimos proyectos son:</h3>
 
- 💻📱 •Proyecto Final de Argentina Programa (FullStack: JAVA + ANGULAR, en desarrollo continuo post-finalización)  [Mi Portafolio](https://deploy-next-portafolio-app.vercel.app/) 
+ 💻📱 • Historias (FullStack: JAVA + ANGULAR, continuación enriquecida de mi proyecto final de Argentina Programa)  [Mi Historia](https://deploy-next-portafolio-app.vercel.app/) 
 
- 💻📱 •App para enviar sms desde la web (FullStack: MongoDB + Express + React + Node) [Enviar SMS](https://www.fungirak.com/sms-app-react/)
+ 💻📱 • App para enviar SMS desde la web (FullStack: MongoDB + Express + React + Node) [Enviar SMS](https://www.fungirak.com/sms-app-react/)
 
- 💻📱 •Gestión de Invitados (FullStack: MongoDB + Express + React + Node) [Lista de Invitados](https://www.fungirak.com/invitados-al-evento/)
+ 💻📱 • Invitados (FullStack: MongoDB + Express + React + Node) [Invitados](https://www.fungirak.com/invitados-al-evento/)
 
- 💻📱 •Mi Sitio Web Personal (FullStack: Next + MongoDB) [My Personal Website](https://www.fungirak.com)
+ 💻📱 • Sitio Web Personal (FullStack: Next + MongoDB) [Personal Website](https://www.fungirak.com)
 
 
-<h3 align="center">▶ Es probable que me encuentre editando alguno de mis proyectos</h3>
+<h3 align="center">▶ Siempre me encuentro realizando las mejoras sustanciales que pueda a mis proyectos</h3>
 <h3 align="center">▶ ¡Visita mi website!  <a href="https://www.fungirak.com" target="blank">www.fungirak.com</a></h3>
 
 
