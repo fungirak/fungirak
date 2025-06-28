@@ -1,5 +1,5 @@
 
-<h1 align="center">Fungilandia🍄 </h1>
+<h1 align="center">FUNGIRAK</h1>
 <h3 align="center">Estudiante universitario de la  UTN FRSF.</h3>
 <h3 align="center">Sistemas de software. Desarrollo de software. Frontend. Backend y Bases de Datos.</h3>
 
