@@ -5,9 +5,11 @@
 
 <h3 align="center">Proyectos públicos: </h3>
 
- <h3 align="center">💻📱 • Historias (desarrollo de backend - Java - MySQL) [Mi Historia](https://deploy-next-front-historias.vercel.app/)  </h3>
+ <h3 align="center">💻📱 • Historias (desarrollo de backend - Java - MySQL) </h3>
+ <h3 align="center">(https://deploy-next-front-historias.vercel.app/) </h3>
 
- <h3 align="center">💻📱 • Sitio Web Personal (desarrolllo de frontend - Next - React) [Personal Website](https://www.fungirak.com) </h3>
+ <h3 align="center">💻📱 • Sitio Web Personal (desarrolllo de frontend - Next - React) </h3>
+ <h3 align="center">(https://www.fungirak.com) </h3>
 
 <h3 align="center">▶ <a href="https://www.fungirak.com" target="blank">www.fungirak.com</a></h3>
 
