@@ -2,11 +2,11 @@
 <h1 align="center">Fungilandia🍄 </h1>
 <h3 align="center">Estudiante universitario de la  UTN FRSF. Sistemas de software. Desarrollo de software. Frontend. Backend y Bases de Datos.</h3>
 
-<h3 align="center">Algunos de mis últimos proyectos son:</h3>
+<h3 align="center">Proyectos públicos:</h3>
 
- 💻📱 • Historias (FullStack: JAVA + ANGULAR, continuación enriquecida de mi proyecto final de Argentina Programa)  [Mi Historia](https://deploy-next-front-historias.vercel.app/) 
+ 💻📱 • Historias (desarrollo de backend - Java - MySQL) [Mi Historia](https://deploy-next-front-historias.vercel.app/) 
 
- 💻📱 • Sitio Web Personal (FullStack: Next + MongoDB) [Personal Website](https://www.fungirak.com)
+ 💻📱 • Sitio Web Personal (desarrolllo de frontend - Next - React) [Personal Website](https://www.fungirak.com)
 
 <h3 align="center">▶ <a href="https://www.fungirak.com" target="blank">www.fungirak.com</a></h3>
 
