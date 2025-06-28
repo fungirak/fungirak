@@ -3,22 +3,22 @@
 <h3 align="center">Estudiante universitario de la  UTN FRSF.</h3>
 <h3 align="center">Sistemas de software. Desarrollo de software. Frontend. Backend y Bases de Datos.</h3>
 
-<h3 align="center">Proyectos públicos:</h3>
+<h3 align="center">Proyectos públicos: </h3>
 
- 💻📱 • Historias (desarrollo de backend - Java - MySQL) [Mi Historia](https://deploy-next-front-historias.vercel.app/) 
+ <h3 align="center">💻📱 • Historias (desarrollo de backend - Java - MySQL) [Mi Historia](https://deploy-next-front-historias.vercel.app/)  </h3>
 
- 💻📱 • Sitio Web Personal (desarrolllo de frontend - Next - React) [Personal Website](https://www.fungirak.com)
+ <h3 align="center">💻📱 • Sitio Web Personal (desarrolllo de frontend - Next - React) [Personal Website](https://www.fungirak.com) </h3>
 
 <h3 align="center">▶ <a href="https://www.fungirak.com" target="blank">www.fungirak.com</a></h3>
 
 
-<h3 align="left">Linkedin:</h3>
-<p align="left">
+<h3 align="center">Linkedin:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/gabriel-lazzarini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel lazzarini" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Algunas herramientas que utilizo:</h3>
-<p align="left">
+<h3 align="center">Algunas herramientas que utilizo:</h3>
+<p align="center">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
