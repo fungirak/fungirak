@@ -1,16 +1,42 @@
 
+# 👋 ¡Hola! Soy FUNGIRAK
+
+### 💻 Desarrollador Full-Stack apasionado por la innovación.
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🌟 Team Joy – La Experiencia Lúdica para la Oficina
+
+****
+
+> 🌈 **Team Joy** es la **PRIMERA RED SOCIAL PARA EMPLEADOS PÚBLICOS** diseñada para **revitalizar** la vida laboral y combatir el *burnout* en la **Administración Pública de Santa Fe** y el sector privado.
+> 
+> * **Misión:**  crear comunidad y transformar la rutina en una experiencia significativa.
+> * **Impacto:** Mejora la cultura organizacional, fomenta la conexión y motiva a los equipos.
+
+#### 💡 Características Principales:
+
+* ✨ **Oficinas & Comunidades:** Crea o únete a tu oficina.
+* 💰 **Finanzas Sociales:** Recauda fondos, organiza campañas de donación (¡Integrado con **Mercado Pago**!).
+* 🤝 **Compras Grupales:** Propuestas con votación y transferencia de pagos instantánea.
+* 🎉 **Eventos:** Organiza almuerzos, after offices y eventos al instante.
+* 🗳️ **Interacción:** Realiza encuestas, preguntas y sorteos.
+* 🏅 **Gamificación:** Gana **coins** e **insignias**, compra/vende **stickers** para tu perfil.
+* 🔄 **Conexión Diaria:** Comparte Rutinas (historias) y Metas del Día (estados).
+
+#### 🔗 **¡Conócela en acción!**
+* **Demo / Sitio Web:** [https://teamjoy.site](https://teamjoy.site)
+
+
+## 🤝 Conéctate Conmigo
+
+
 <h1 align="center">FUNGIRAK.COM</h1>
-<h3 align="center">Estudiante universitario de la  UTN FRSF.</h3>
+<h3 align="center">Egresado de la  UTN FRSF.</h3>
+<h3 align="center">Tecnicatura universitaria en Tecnologías de la Información.</h3>
 <h3 align="center">Sistemas de software. Desarrollo de software. Frontend. Backend y Bases de Datos.</h3>
-
-<h3 align="center">Proyectos públicos: </h3>
-
- <h3 align="center">💻📱 • Historias (desarrollo de backend - Java - MySQL) </h3>
- <h3 align="center">https://deploy-next-front-historias.vercel.app/ </h3>
-
- <h3 align="center">💻📱 • Sitio Web Personal (desarrolllo de frontend - Next - React) </h3>
- <h3 align="center">▶ https://www.fungirak.com </h3>
-
 
 
 <h3 align="center">Linkedin:</h3>
