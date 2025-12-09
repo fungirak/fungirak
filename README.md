@@ -27,7 +27,7 @@
 * 🔄 **Conexión Diaria:** Comparte Rutinas (historias) y Metas del Día (estados).
 
 #### 🔗 **¡Conócela en acción!**
-* **Demo / Sitio Web:** [https://teamjoy.site](https://teamjoy.site)
+* **Sitio Web:** [https://teamjoy.site](https://teamjoy.site)
 
 
 ## 🤝 Conéctate Conmigo
