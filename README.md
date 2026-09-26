@@ -7,7 +7,7 @@
 
 ## 🚀 Proyectos Destacados
 
-### 🌟 Team Joy – La Experiencia Lúdica para la Oficina
+### 🌟 Team Joy – Conecta tu organización.
 
 ****
 
