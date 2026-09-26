@@ -11,7 +11,7 @@
 
 ****
 
-> 🌈 **Team Joy** es la **PRIMERA RED SOCIAL PARA EMPLEADOS PÚBLICOS** diseñada para **revitalizar** la vida laboral y combatir el *burnout* en la **Administración Pública de Santa Fe** y el sector privado.
+> 🌈 **Team Joy** es la **PRIMERA RED SOCIAL DE CULTURA LABORAL PARA EMPLEADOS PÚBLICOS Y PRIVADOS DE ARGENTINA** diseñada para **revitalizar** la vida laboral y combatir el *burnout* en la **Administración Pública de Santa Fe** y el sector privado.
 > 
 > * **Misión:**  crear comunidad y transformar la rutina en una experiencia significativa.
 > * **Impacto:** Mejora la cultura organizacional, fomenta la conexión y motiva a los equipos.
